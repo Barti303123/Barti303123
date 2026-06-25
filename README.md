@@ -29,8 +29,8 @@
 
 <br>
 
-| 🌐 Commercial Website & SEO | 📱 [Miejsce na Twój kolejny projekt] |
-| :--- | :--- |
+| 📱 [Miejsce na Twój kolejny projekt] |
+| :--- |
 | <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Coming+Soon" width="100%"> |
 | Miejsce na Twoją przyszłą aplikację mobilną pisaną w Swifcie lub rozwiązanie w oparciu o Darta. |
 | **Tech:** Swift / Dart / iOS |
