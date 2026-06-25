@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/793925e0-fba5-44ba-8a02-3beda3188c80" />
+
 ### Hi, I'm Bartosz! 👋
 
 **Web Developer | AI Automation Integrator | Algorithmic Trader**
