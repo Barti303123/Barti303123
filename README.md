@@ -3,12 +3,21 @@
 
 <h3>💻 Architektura i Technologie</h3>
 
-<h4>🌐 Web Development & Optymalizacja</h4>
+<h4>🌐 Full-Stack Web Development</h4>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO_Optimization-2E8B57?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<h4>📱 Mobile App Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 <h4>🤖 AI & Systemy Automatyzacji</h4>
@@ -24,5 +33,3 @@
   <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/Gold_Futures-DAA520?style=for-the-badge&logo=matrix&logoColor=white" />
 </p>
-
-
