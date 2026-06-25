@@ -16,6 +16,27 @@
 * 🌱 **Learning & Exploring:** Native iOS app development (Swift) and advanced Prompt Engineering.
 * 📫 **How to reach me:** [bartosz-web.pl](https://bartosz-web.pl)
 
+---
+
+### 🚀 Wyróżnione Projekty (Featured Projects)
+
+| 🤖 AI Business Proposal System | 📈 Algo Trading Strategy |
+| :--- | :--- |
+| <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=AI+System+Preview" width="100%"> | <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Trading+Dashboard" width="100%"> |
+| **Autorski system automatyzujący generowanie spersonalizowanych ofert dla biznesu.** Wykorzystuje modele LLM do analizy potrzeb klienta i tworzenia gotowych wycen. | **Zautomatyzowany system transakcyjny** przetestowany (backtesting) na rynkach kontraktów terminowych (Gold Futures). Obejmuje zarządzanie ryzykiem i optymalizację wejść. |
+| **Tech:** JavaScript, Next.js, Supabase, Claude AI | **Tech:** NinjaTrader 8, TradingView, Algorithmic Logic |
+| [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#) |
+
+<br>
+
+| 🌐 Commercial Website & SEO | 📱 [Miejsce na Twój kolejny projekt] |
+| :--- | :--- |
+| <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Website+Preview" width="100%"> | <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Coming+Soon" width="100%"> |
+| **Kompleksowe wdrożenie strony internetowej dla lokalnego biznesu** (np. branża rolnicza). Obejmuje optymalizację SEO, konfigurację DNS i zarządzanie serwerem. | Miejsce na Twoją przyszłą aplikację mobilną pisaną w Swifcie lub rozwiązanie w oparciu o Darta. |
+| **Tech:** WordPress, HTML/CSS, SEO, Hosting | **Tech:** Swift / Dart / iOS |
+| [![Live Site](https://img.shields.io/badge/Visit_Site-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white)](#) | [![In Progress](https://img.shields.io/badge/In_Progress-FF9900?style=for-the-badge)](#) |
+
+---
 ### 💻 Tech Stack & Architecture
 
 <h4>🌐 Full-Stack Web Development</h4>
