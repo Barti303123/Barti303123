@@ -1,4 +1,5 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/793925e0-fba5-44ba-8a02-3beda3188c80" />
+<img width="2515" height="790" alt="baner github" src="https://github.com/user-attachments/assets/f1392286-e321-4eff-bf69-8ac7886c1934" />
+
 
 ### Hi, I'm Bartosz! 👋
 
