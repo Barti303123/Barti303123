@@ -9,7 +9,7 @@
 * 🔭 **Currently building:** An AI-based system for automated business proposals and commercial websites.
 * 📈 **Trading & Analytics:** Developing and backtesting systematic trading strategies for Gold Futures.
 * 🌱 **Learning & Exploring:** Native iOS app development (Swift) and advanced Prompt Engineering.
-* 📫 **How to reach me:** [bartosz-web.pl]
+* 📫 **How to reach me:** [bartosz-web.pl](https://bartosz-web.pl)
 
 ### 💻 Tech Stack & Architecture
 
