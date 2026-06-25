@@ -1,5 +1,7 @@
-<img width="2515" height="790" alt="baner github" src="https://github.com/user-attachments/assets/f1392286-e321-4eff-bf69-8ac7886c1934" />
+<img width="2463" height="736" alt="baner github" src="https://github.com/user-attachments/assets/ad79b7db-b8ac-4bfe-a42f-73e081f11a29" />
 
+
+---
 
 ### Hi, I'm Bartosz! 👋
 
