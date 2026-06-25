@@ -31,10 +31,10 @@
 
 | 🌐 Commercial Website & SEO | 📱 [Miejsce na Twój kolejny projekt] |
 | :--- | :--- |
-| <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Website+Preview" width="100%"> | <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Coming+Soon" width="100%"> |
-| **Kompleksowe wdrożenie strony internetowej dla lokalnego biznesu** (np. branża rolnicza). Obejmuje optymalizację SEO, konfigurację DNS i zarządzanie serwerem. | Miejsce na Twoją przyszłą aplikację mobilną pisaną w Swifcie lub rozwiązanie w oparciu o Darta. |
-| **Tech:** WordPress, HTML/CSS, SEO, Hosting | **Tech:** Swift / Dart / iOS |
-| [![Live Site](https://img.shields.io/badge/Visit_Site-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white)](#) | [![In Progress](https://img.shields.io/badge/In_Progress-FF9900?style=for-the-badge)](#) |
+| <img src="https://placehold.co/600x300/1e1e1e/ffffff?text=Coming+Soon" width="100%"> |
+| Miejsce na Twoją przyszłą aplikację mobilną pisaną w Swifcie lub rozwiązanie w oparciu o Darta. |
+| **Tech:** Swift / Dart / iOS |
+| [![In Progress](https://img.shields.io/badge/In_Progress-FF9900?style=for-the-badge)](#) |
 
 ---
 ### 💻 Tech Stack & Architecture
