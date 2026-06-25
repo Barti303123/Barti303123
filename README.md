@@ -31,5 +31,4 @@
 <p>
   <img src="https://img.shields.io/badge/NinjaTrader_8-1E1E1E?style=for-the-badge&logo=stock&logoColor=white" />
   <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gold_Futures-DAA520?style=for-the-badge&logo=matrix&logoColor=white" />
 </p>
